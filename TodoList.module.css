@@ -1,0 +1,5 @@
+.list { display: flex; flex-direction: column; gap: 9px; margin: 0; padding: 0; list-style: none; }
+.empty { text-align: center; padding: 38px 12px; border: 1px dashed #344158; border-radius: 15px; color: #94a3b8; }
+.emptyIcon { display: grid; place-items: center; width: 38px; height: 38px; margin: 0 auto 12px; border-radius: 50%; color: #a99fff; background: #2b2854; font-size: 20px; }
+.empty h3 { color: #e5eaf3; margin: 0 0 6px; font-size: 15px; }
+.empty p { margin: 0; font-size: 13px; }
